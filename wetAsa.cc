@@ -16,6 +16,8 @@
 
 #include "wet.hh"
 
+int tomato = 2;
+
 void marker()
 {
   computeMomenta();
