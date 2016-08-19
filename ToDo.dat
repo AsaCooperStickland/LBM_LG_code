@@ -1,0 +1,5 @@
+0		% RestartPoint. Will load PD1P$tRestartPoint.m
+0.0		% ECRate. Density will be incremented by ECRate
+5000000		% nbIter
+Yes
+% Continue simulation (Yes or No)

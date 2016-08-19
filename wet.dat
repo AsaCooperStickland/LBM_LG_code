@@ -1,0 +1,16 @@
+150		% LX            
+1		% LY 
+150		% LZ
+100000		% nbEqStep	notes: body force turned off during these steps
+1000000	        % PDStep	notes: interval to save the partial distribution fs
+100000		% nbIter	notes; body force turned on
+10000		% infoStep	notes: interval to save the densities, energies, COM
+1.0		% tauLiquid                      ->  0.8
+1.0		% tauGas
+0.004		% kappa                          ->  0.004
+0.4		% T                              ->  0.4
+0.1		% beta
+0.125		% pc
+0.0 0 0		% body force                     -> 0 0 0
+No
+% Load file (yes) or start new simulation (no). Use ToDo.dat to load the appropriate file

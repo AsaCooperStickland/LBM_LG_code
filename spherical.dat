@@ -1,0 +1,5 @@
+40		% dropletR                       -> 15
+75		% dropletCenterX                 -> 48
+0		% dropletCenterY                 ->  0
+0.0		% dropletCenterZ                 -> 15
+0.0 0.0 0.0	% initUX initUY initUZ           -> 0.0 0.0 -0.01   
